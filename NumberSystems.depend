@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1617642296 source:c:\users\mande\onedrive\desktop\c++ programs\numbersystems\main.cpp
+	<iostream>
+	<cstdlib>
+	<bits/stdc++.h>
+	<string>
+	<vector>
+	<math.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<functional>
+
